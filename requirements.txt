@@ -7,3 +7,4 @@ requests
 whisper 
 groq 
 openai-whisper
+librosa
